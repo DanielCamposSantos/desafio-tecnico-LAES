@@ -2,7 +2,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Exercicio01 {
-
     /**
      * O metodo analiza os valores de um dado array e percorre ele tentando encontrar possiveis valores
      * que possam se equivaler ao target]
