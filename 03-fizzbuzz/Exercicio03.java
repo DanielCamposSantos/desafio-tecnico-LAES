@@ -22,7 +22,7 @@ public class Exercicio03 {
             } else if (i % 5 == 0) {
                 lista.add("Buzz");
             } else{
-                lista.add(String.valueOf(i));
+                    lista.add(String.valueOf(i));
             }
         }
         return lista;
