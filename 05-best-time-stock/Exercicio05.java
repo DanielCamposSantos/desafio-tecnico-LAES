@@ -16,7 +16,7 @@ public class Exercicio05 {
             com o lucro máximo ja obtido para tentar encontrar o maior valor possivel. Se a condição não é satisfeita,
             o preçõ de compra se torna o valor seguinte e a comparação é refeita até todos os valores serem testados
              */
-            if (prices[i] > precoCompra){
+                if (prices[i] > precoCompra) {
                 lucroMaximo = Integer.max(prices[i] - precoCompra,lucroMaximo);
             } else {
                 precoCompra = prices[i];
