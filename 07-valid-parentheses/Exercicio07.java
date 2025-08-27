@@ -5,7 +5,7 @@ public class Exercicio07 {
     public  boolean isValido(String s) {
         Stack<Character> abertos = new Stack<>();
         char[] stringSeparada = s.toCharArray();
-
+        
         for (char c : stringSeparada){
             if (c == '(' || c == '[' || c == '{'){
                 abertos.push(c);
