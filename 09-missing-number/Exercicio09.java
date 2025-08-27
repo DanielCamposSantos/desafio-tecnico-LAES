@@ -11,10 +11,5 @@ public class Exercicio09 {
        }
 
        return somaDePa;
-
     }
 }
-//
-//if (!arrayList.contains(0)){
-//        arrayList.add(0);
-//        }
