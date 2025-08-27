@@ -5,7 +5,6 @@ public class Exercicio02 {
      * @param s String que será verificada se é um palíndromo ou não
      * @return true se for um palíndromo e false caso não seja
      */
-
     public boolean isPalindromo(String s){
         // Transforma a string s em StringBuilder para remover caracteres indesejados (não alfanuméricos)
 
